@@ -13,8 +13,8 @@
     - [X] Initialiser un projet Node.
       - [X] Comprendre la structure du fichier `package.json` ([voir ici](https://docs.npmjs.com/cli/v10/configuring-npm/package-json))
     - [X] Installer un package (local et global)
-    - [ ] Désinstaller un package (local et global)
-    - [ ] Mettre jour les packages (local et global) et le package manager
+    - [X] Désinstaller un package (local et global)
+    - [X] Mettre jour les packages (local et global) et le package manager
 - [ ] Découvrir les linters et formaters
 - [ ] Quelle est la différence entre un linter et un formater
 - [ ] Quels sont les principaux outils les plus répandus ?
