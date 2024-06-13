@@ -11,7 +11,7 @@
   - [X] Comprendre ce qu'est un package Node. / c'est une bibliothèque contenant du code JS, utilisable par Node js.  
   - [ ] Savoir faire les commandes de bases : 
     - [X] Initialiser un projet Node.
-      - [X] Comprendre la structure du fichier `package.json` ([voir ici](https://docs.npmjs.com/cli/v10/configuring-npm/package-json))
+      - [X] Comprendre la structure du fichier `package.json` ([voir ici](https://docs.npmjs.com/cli/v10/configuring-npm/package-json)) 
     - [X] Installer un package (local et global)
     - [X] Désinstaller un package (local et global)
     - [X] Mettre jour les packages (local et global) et le package manager
